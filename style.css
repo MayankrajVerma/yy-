@@ -1,0 +1,10 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+}
+body {
+    background-size: cover;
+}
